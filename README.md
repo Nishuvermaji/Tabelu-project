@@ -1,2 +1,2 @@
-# Tabelu-project
+#Eda project 
 My first repository 
